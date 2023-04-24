@@ -2,8 +2,6 @@
 
 We analye facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
 
-![image](webapp.png)
-
 ## How to use it ?
 
 To use the web app :
