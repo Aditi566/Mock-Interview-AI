@@ -32,5 +32,5 @@ The organization of the project is the following :
   - CSS : The CSS style sheet and fixed images to display
   - JS : The JavaScript of the app (D3.js) and the databases that store the information
 - templates : All the HTML pages of the project
-- tmp : Temporary files (i.e. an image from video interview, an audio file or a PDF)
+- tmp : Temporary files (i.e. an image from video interview, or an audio file)
 - main.py : The Flask page that calls the functions and redirects to HTML files
