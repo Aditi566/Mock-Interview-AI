@@ -104,7 +104,7 @@ The models have been trained on Google Colab using free GPUs.
 | Simple Deep Learning Architecture       |     62.7%     |
 | Inception Architecture                  |     59.5%     |
 | Xception Architecture                   |     64.5%     |
-| DeXpression Architecture                |     --.-%     |
+| CNN Model with Gabor filter             |     84.2%     |
 | Hybrid (HOG, Landmarks, Image)          |     45.8%     |
 
 # Download the model and the data
